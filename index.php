@@ -19,7 +19,8 @@
  
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
  <script src="http://www.imcanalytics.com/js/jquery.popupoverlay.js"></script>
- <style>
+ 
+<style>
  section {
     width: 90%;
     height: 200px;
